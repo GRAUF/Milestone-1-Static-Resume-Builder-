@@ -1,0 +1,59 @@
+body {
+    font-family: poppins Black;
+    margin: 0;
+    padding: 0;
+    background-color: #070a0a;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 20px auto;
+    background: rgba(226, 225, 205, 0.945);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1, h2 {
+    color: #0880f0;
+    font-family: cursive;
+    margin-top: 10px;
+    
+  }
+  
+  .profile-picture {
+    width: 150px;
+    border-radius: 100px;
+  }
+  .linkedin{
+width: 30px;
+  }
+  .github{
+    width: 30px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    background-color: #d0ff00;
+    color: rgb(0, 0, 0);
+    font-family: poppins;
+    border: 100px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-top: 20px;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
